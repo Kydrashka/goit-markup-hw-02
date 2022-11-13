@@ -1,12 +1,64 @@
+/*body*/
+body {
+    color: #757575;
+}
+
 /*styles logo*/
 .logo{
     color: #2196F3;
 }
+
 .logo-black{
     color: #000000;
 }
 
-/*body*/
-body{
+/*nav*/
+.contact{
     color: #757575;
+}
+
+.contact:hover, .contact:focus{
+    color: #2196F3;
+}
+.nav a{
+    color: #212121;
+}
+.nav-list:hover, .nav-list:focus{
+    color: #2196F3;
+}
+
+/*main*/
+
+/*section 1*/
+.hero{
+    color: #FFFFFF;
+    background-color: #2F303A;
+}
+.hero-button{
+    color: #FFFFFF;
+    background-color: #2196F3;
+}
+
+/* section 2, 3 */
+h3, h2{
+    color: #212121;
+}
+
+/* section 4 */
+.name{
+    color: #212121;
+}
+
+/* footer */
+address{
+    background-color: #2F303A;
+}
+.adress-city{
+    color: #FFFFFF;
+}
+.contact-footer{
+    color: rgba(255, 255, 255, 0.6);
+}
+.contact-footer:hover, .contact-footer:focus{
+    color: #2196F3;
 }
