@@ -2,10 +2,16 @@
     color: #212121;
     background-color: #F5F4FA;
 }
+
 button:hover, button:focus{
     color: #FFFFFF;
     background-color: #2196F3;
 }
+
 h2{
     color: #212121;;
+}
+
+.nav .portfolio-current{
+    color: #2196F3;
 }
