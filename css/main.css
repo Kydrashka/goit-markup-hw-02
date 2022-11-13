@@ -1,0 +1,22 @@
+/*main*/
+
+/*section 1*/
+.hero{
+    color: #FFFFFF;
+    background-color: #2F303A;
+}
+.hero-button{
+    color: #FFFFFF;
+    background-color: #2196F3;
+}
+
+/* section 2, 3 */
+h3, h2{
+    color: #212121;
+}
+
+/* section 4 */
+.name{
+    color: #212121;
+}
+
